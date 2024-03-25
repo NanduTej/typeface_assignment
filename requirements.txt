@@ -1,0 +1,4 @@
+flask
+Flask-Reuploaded
+flask_sqlalchemy
+flask_cors
